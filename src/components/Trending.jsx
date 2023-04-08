@@ -1,6 +1,6 @@
 import React from "react";
-import TrendingCard from "./trendingCard";
 import { BiLeftArrowAlt, BiRightArrowAlt } from "react-icons/bi";
+import TrendingCard from "./TrendingCard";
 
 const Trending = ({ data, heading, heading2 }) => {
   return (
